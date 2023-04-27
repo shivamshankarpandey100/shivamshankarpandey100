@@ -42,7 +42,7 @@
   <details>
     <summary>➡️➡️➡️➡️Please Click On ME⬅️⬅️⬅️⬅️</summary>
     </br>
-  <p size="32px"> I am a computer science student currently in my 2nd year of bachelors. My problem is pretty straight forward yet still so far has not been self-resolvable. It is simply is that I am tired of programming. I don't know why but it just happened.(" LOVE🧑🏻‍💻🧑🏻‍💻🧑🏻‍💻COADING ")</p>
+  <p size="40px"> Good programmers write code that humans can understand" and "Measuring programming progress by lines of code is like measuring aircraft building progress by weight” can be used to motivate those looking to become a better coder.(" LOVE🧑🏻‍💻🧑🏻‍💻🧑🏻‍💻COADING ")</p>
   </details>
 </div>
 
